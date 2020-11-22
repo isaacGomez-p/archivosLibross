@@ -17,8 +17,6 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<start-class>com.movit</start-class>
-	    <start-class>org.springframework.boot.sample.tomcat.SampleTomcatApplication</start-class>
 	</properties>
 
 	<dependencies>
